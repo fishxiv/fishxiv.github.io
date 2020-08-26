@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+	<path d="M 4.6863 20 A 12 12 0 1 1 27.3137 20 Z" stroke="black" fill="yellow"/>
+	<line x1="2" x2="30" y1="20" y2="20" stroke="black" stroke-width="3" stroke-linecap="round"/>
+	<line x1="2.5" x2="29.5" y1="20" y2="20" stroke="yellow" stroke-linecap="round"/>
+	<line x1="6" x2="26" y1="25" y2="25" stroke="black" stroke-width="3" stroke-linecap="round"/>
+	<line x1="6.5" x2="25.5" y1="25" y2="25" stroke="yellow" stroke-linecap="round"/>
+	<line x1="10" x2="22" y1="30" y2="30" stroke="black" stroke-width="3" stroke-linecap="round"/>
+	<line x1="10.5" x2="21.5" y1="30" y2="30" stroke="yellow" stroke-linecap="round"/>
+</svg>
